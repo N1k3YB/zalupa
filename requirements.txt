@@ -1,0 +1,16 @@
+Flask==3.0.2
+Flask-Cors==4.0.0
+gigachain==0.1.10
+gigachain-community==0.0.25
+gigachain-core==0.1.28
+gigachain-experimental==0.0.53
+gigachain-text-splitters==0.0.1
+gigachat==0.1.19
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+pillow==10.2.0
+torch==2.2.1
+diffusers==0.27.1
+torchvision==0.17.1
+transformers==4.38.2
